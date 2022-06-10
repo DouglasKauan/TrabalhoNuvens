@@ -1,5 +1,5 @@
 const express = require("express");
-const app = express();
+const app = express()
 var calculadora = require("./calculadora") 
 
 //5 com resposta HTML
